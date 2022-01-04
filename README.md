@@ -1,2 +1,3 @@
 # coins
-a small sideproject 
+A small sideproject with FastApi and ReactJS.
+
