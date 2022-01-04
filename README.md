@@ -12,15 +12,15 @@ A small sideproject with FastApi and ReactJS.
 
 ```
 npm install
-```
-
-```
 npm start
 ```
 
 ### For Backend
 
 ```
+pip install numpy
+pip install -U scikit-learn
+pip install fastapi
+pip install "uvicorn[standard]"
 uvicorn server:app --reload
-
 ```
