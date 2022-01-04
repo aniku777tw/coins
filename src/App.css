@@ -1,0 +1,25 @@
+.app{
+    background-color: #f1f2f5;
+    height: 100%;
+
+}
+.app__body{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.sidebar {
+    position:sticky;
+    top: 8%;
+    flex:1
+  }
+
+.feed{
+
+    flex:1
+}
+
+.widgets{
+
+    flex:1
+}

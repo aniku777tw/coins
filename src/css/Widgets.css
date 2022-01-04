@@ -1,0 +1,15 @@
+.widgets{
+    padding: 0px 0px 0px 3px;
+    justify-content: center;
+    align-items: center;
+}
+.iframe{
+    justify-content: center;
+    align-items: center;
+
+}
+.label{
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,33 @@
+.coin{
+    display: vertically;
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0px 5px 7px -7px rgba(0,0,0,0.75);
+    align-items:center;
+    justify-content:center;
+    padding: 10px 0px 0px 0px
+
+}
+
+.button__row{
+    align-items:center;
+    justify-content:center;
+    display: flex;    
+
+}
+
+.button{
+    padding: 5px;
+    align-items:center;
+    justify-content:center;
+    display: flex;
+}
+.textfield{
+    align-items:center;
+    justify-content:center;
+    display: flex;
+}
+
+

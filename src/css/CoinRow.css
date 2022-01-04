@@ -1,0 +1,8 @@
+.textfield{
+    padding: 5px;
+}
+.coin__row{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
