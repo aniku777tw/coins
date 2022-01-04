@@ -20,8 +20,7 @@ npm start
 
 ### For Backend
 
-
-'''
+```
 uvicorn server:app --reload
 
-'''
+```
